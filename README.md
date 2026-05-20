@@ -38,7 +38,7 @@ MSc FinTech, NCI Dublin (2023–2024) — Studied AML, regulatory technology, fr
 Contact
 📧 mani.emmaal@gmail.com
 🔗 linkedin.com/in/ggg2xd
-📍 Ireland — remote-first, available immediately## Hi there 👋
+📍 Ireland available immediately##
 
 <!--
 **emmanuelmani/emmanuelmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
