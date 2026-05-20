@@ -61,4 +61,4 @@ AML · Regulatory Technology · Financial data analytics · Fraud prevention sys
 
 📧 mani.emmaal@gmail.com
 🔗 [linkedin.com/in/ggg2xd](https://linkedin.com/in/ggg2xd)
-📍 Ireland — remote-first, available immediately
+📍 Ireland — available immediately
