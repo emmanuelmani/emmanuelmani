@@ -11,7 +11,7 @@ MSc Financial Technology — National College of Ireland, Dublin (2:1, 2024)
 | Repository | What it covers |
 |------------|----------------|
 | [it-helpdesk-runbooks](https://github.com/emmanuelmani/it-helpdesk-runbooks) | IT onboarding, offboarding, device setup, and troubleshooting guides |
-| [powershell-m365-scripts](./powershell-m365-scripts) | PowerShell scripts for Microsoft 365 admin — user management, MFA, licence reporting |
+| [powershell-m365-scripts](https://github.com/emmanuelmani/powershell-m365-scripts) | PowerShell scripts for Microsoft 365 admin — user management, MFA, licence reporting |
 | [fintech-fraud-awareness](./fintech-fraud-awareness) | AML, fraud prevention, and RegTech notes from an IT operations perspective |
 | [google-workspace-admin-notes](./google-workspace-admin-notes) | Study notes and admin reference — Google Workspace vs Microsoft 365 |
 | [it-asset-tracker](./it-asset-tracker) | Python script for hardware asset inventory management and reporting |
